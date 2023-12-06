@@ -8,6 +8,7 @@ namespace BankManager
         {
             BankService bankService = new BankService();
             bankService.ExecuteAllFunctions();
+            //It is good for beginning!
         }
     }
 }
