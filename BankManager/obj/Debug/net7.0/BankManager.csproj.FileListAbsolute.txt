@@ -1,0 +1,15 @@
+C:\Users\abdun\Projects\BankManager\BankManager\bin\Debug\net7.0\BankManager.exe
+C:\Users\abdun\Projects\BankManager\BankManager\bin\Debug\net7.0\BankManager.deps.json
+C:\Users\abdun\Projects\BankManager\BankManager\bin\Debug\net7.0\BankManager.runtimeconfig.json
+C:\Users\abdun\Projects\BankManager\BankManager\bin\Debug\net7.0\BankManager.dll
+C:\Users\abdun\Projects\BankManager\BankManager\bin\Debug\net7.0\BankManager.pdb
+C:\Users\abdun\Projects\BankManager\BankManager\obj\Debug\net7.0\BankManager.csproj.AssemblyReference.cache
+C:\Users\abdun\Projects\BankManager\BankManager\obj\Debug\net7.0\BankManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdun\Projects\BankManager\BankManager\obj\Debug\net7.0\BankManager.AssemblyInfoInputs.cache
+C:\Users\abdun\Projects\BankManager\BankManager\obj\Debug\net7.0\BankManager.AssemblyInfo.cs
+C:\Users\abdun\Projects\BankManager\BankManager\obj\Debug\net7.0\BankManager.csproj.CoreCompileInputs.cache
+C:\Users\abdun\Projects\BankManager\BankManager\obj\Debug\net7.0\BankManager.dll
+C:\Users\abdun\Projects\BankManager\BankManager\obj\Debug\net7.0\refint\BankManager.dll
+C:\Users\abdun\Projects\BankManager\BankManager\obj\Debug\net7.0\BankManager.pdb
+C:\Users\abdun\Projects\BankManager\BankManager\obj\Debug\net7.0\BankManager.genruntimeconfig.cache
+C:\Users\abdun\Projects\BankManager\BankManager\obj\Debug\net7.0\ref\BankManager.dll
