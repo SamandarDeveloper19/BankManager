@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BankManager"
   ],
-  "SelectedNode": "\\C:\\Users\\abdun\\Projects\\BankManager",
+  "SelectedNode": "\\BankManager\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
