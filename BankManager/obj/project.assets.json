@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdun\\Projects\\BankManager\\BankManager\\BankManager.csproj",
+      "projectUniqueName": "C:\\Users\\abdun\\OneDrive\\Desktop\\Projects\\BankManager\\BankManager\\BankManager.csproj",
       "projectName": "BankManager",
-      "projectPath": "C:\\Users\\abdun\\Projects\\BankManager\\BankManager\\BankManager.csproj",
+      "projectPath": "C:\\Users\\abdun\\OneDrive\\Desktop\\Projects\\BankManager\\BankManager\\BankManager.csproj",
       "packagesPath": "C:\\Users\\abdun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdun\\Projects\\BankManager\\BankManager\\obj\\",
+      "outputPath": "C:\\Users\\abdun\\OneDrive\\Desktop\\Projects\\BankManager\\BankManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abdun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,12 +56,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

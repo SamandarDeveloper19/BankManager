@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SklHb8voyaR0QYuGv3sI4WFlCCyZ+j/HhMXIyqvsYhAd1daXfyiBntpwboD15iOivTPu8oLtVWzEWYaIRfjW1w==",
+  "dgSpecHash": "koxRr1KSJDClPekkxkntvHZnXU2PRGTPBYISCqy4NcmufsP3Lj9cvU/6BGmStQHT+8VJG9d3kCjXZX6fwnImMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdun\\Projects\\BankManager\\BankManager\\BankManager.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\abdun\\OneDrive\\Desktop\\Projects\\BankManager\\bankmanager\\BankManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdun\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\abdun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\abdun\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\abdun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
